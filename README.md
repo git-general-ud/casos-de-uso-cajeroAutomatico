@@ -7,4 +7,4 @@
 <hr>
   
   
-https://https://github.com/git-general-ud/casos-de-uso-cajeroAutomatico/casos-de-uso-(cajero-automatico).jpeg
+https://github.com/git-general-ud/casos-de-uso-cajeroAutomatico/casos-de-uso-(cajero-automatico).jpeg
